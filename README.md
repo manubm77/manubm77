@@ -8,11 +8,11 @@
 - Languages: Java, Python, C,C++
 - Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, Linux
-
+- 
 ## 📌 Projects
-- Beat the Machine – Logic-based game project
-- Emotion Detection System (OpenCV)
 - Resume Analyzer – Python-based resume analysis tool
+- Emotion Detection System – Real-time facial emotion recognition using OpenCV and CNN
+- Beat the Machine – Logic-based game project
 - More projects coming soon...
 
 ## 📫 Connect with me

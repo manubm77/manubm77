@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Manu 👋
 
-<!--
-**manubm77/manubm77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Honours Student  
+💻 Interested in Web Development, AI & System Design  
+🚀 Building Lexora – a platform-level AI intelligence system  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Languages: Java, Python, C
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Beat the Machine – Logic-based game project
+- Emotion Detection System (OpenCV)
+- Resume Analyzer – Python-based resume analysis tool
+- More projects coming soon...
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/manu-bm/

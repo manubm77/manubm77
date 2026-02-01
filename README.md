@@ -5,7 +5,7 @@
 🚀 Building Lexora – a platform-level AI intelligence system  
 
 ## 🛠 Skills
-- Languages: Java, Python, C
+- Languages: Java, Python, C,C++
 - Web: HTML, CSS, JavaScript
 - Tools: Git, GitHub, Linux
 

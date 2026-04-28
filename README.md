@@ -98,4 +98,4 @@ Analyze sales data, spot trends, and get actionable insights — so creators can
 
 ---
 
-*Build Smarter. Ship Structured. ⚡*
+*Build Smarter. Ship Structured! ⚡*

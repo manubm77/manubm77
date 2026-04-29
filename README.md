@@ -1,4 +1,4 @@
-# Hey, I'm Manu B.M. ⚡
+# Hey, I'm Manu BM ⚡
 
 **Full Stack & AI/ML Developer · Founder @ Lexora · Remote-ready**
 

@@ -1,101 +1,187 @@
-# Hey, I'm Manu BM ⚡
+<div align="center">
 
-**Full Stack & AI/ML Developer · Founder @ Lexora · Remote-ready**
+<!-- ═══════════════════ CAPSULE HEADER BANNER ═══════════════════ -->
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=200&section=header&text=Manu%20B.M.&fontSize=60&fontColor=00D9FF&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20Developer%20%E2%80%A2%20Founder%20%40%20Lexora&descAlignY=60&descSize=18&descColor=A855F7&animation=twinkling)](https://github.com/manubm77)
 
----
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Intent+%E2%86%92+Architecture+%E2%86%92+Execution+%E2%86%92+Code+%E2%9A%A1;Building+AI+that+thinks+before+it+builds.;BCA+Honours+%7C+AI+%26+Data+Science+%7C+MGU+Kerala;Remote-ready+%E2%80%A2+Future-focused+%E2%80%A2+Ship-first+mindset)](https://github.com/manubm77)
 
-## 🧠 What I'm Building
+<!-- ═══════════════════ PROFILE VIEWS + SOCIAL PROOF ═══════════════════ -->
+[![Profile Views](https://komarev.com/ghpvc/?username=manubm77&style=for-the-badge&color=0e1628&label=PROFILE+VIEWS)](https://github.com/manubm77)
+[![GitHub followers](https://img.shields.io/github/followers/manubm77?style=for-the-badge&color=0e1628&labelColor=0e1628&logo=github&logoColor=00D9FF)](https://github.com/manubm77?tab=followers)
+[![X Follow](https://img.shields.io/twitter/follow/manubm77?style=for-the-badge&color=0e1628&labelColor=0e1628&logo=x&logoColor=00D9FF&label=FOLLOW)](https://x.com/manubm77)
 
-### **[Lexora](https://github.com/buildlexora)** — A structured vibe-coding agent that thinks before it builds.
-
-> Intent → Architecture → Execution Plan → Code
-
-Most AI tools jump straight to code. Lexora doesn't.
-
-[![Lexora Org](https://img.shields.io/badge/buildlexora-181717?style=flat&logo=github&logoColor=white)](https://github.com/buildlexora)
-[![Live](https://img.shields.io/badge/Live-lexora--ai-0B0D0E?style=flat&logo=railway&logoColor=white)](https://lexora-ai-production.up.railway.app)
+</div>
 
 ---
 
-### **[GitAchievements](https://github.com/manubm77/GitAchievements)** — Gamified GitHub activity tracking for developers.
+<div align="center">
 
-> Your commits. Your streaks. Your legacy.
+```
+╔══════════════════════════════════════════════════════════╗
+║         NOT JUST ANOTHER DEV. A BUILDER.                ║
+║   I don't just write code — I architect intelligence.   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-Premium developer platform that turns GitHub activity into achievements, milestones, and bragging rights.
+</div>
 
-### **[Gumroad Copilot](https://github.com/manubm77/gumroad-copilot)** — AI-powered revenue intelligence for Gumroad creators.
+## ⚡ About Me
 
-> You create. Copilot optimizes.
-
-Analyze sales data, spot trends, and get actionable insights — so creators can focus on building.
+```yaml
+name:       Manu B.M.
+location:   Kerala, India 🇮🇳  (Remote-ready globally 🌍)
+role:       Full Stack & AI/ML Developer | Founder @ Lexora
+education:  BCA Honours — AI & Data Science | Mahatma Gandhi University
+currently:  Building Lexora · Crafting a 3D space-theme portfolio
+goal:       Remote IT → Entrepreneur → Switzerland 🇨🇭
+mindset:    "Ship structured. Think first. Build with intent."
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Building — [Lexora](https://github.com/buildlexora)
 
-**Languages**
+> **The AI that architects your idea before writing a single line of code.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<div align="center">
 
-**AI / ML**
+```
+┌─────────────────────────────────────────────────────────┐
+│              LEXORA  ·  7-ENGINE PIPELINE               │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  💡 Intent      →  🏗️ Architect  →  📋 Decompose       │
+│       ↓                  ↓               ↓             │
+│  ⚙️ Execute    ←  🧠 State Mem  ←  🔍 Task Plan        │
+│       ↓                                                 │
+│  🛡️ Quality Guard  →  🔄 Iterate  →  ✅ Ship           │
+│                                                         │
+│         [ INTENT → ARCHITECTURE → CODE ]               │
+└─────────────────────────────────────────────────────────┘
+```
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+</div>
 
-**Full Stack**
+Most AI tools dump code instantly. **Lexora thinks first.**
+Built with Flask · Groq `llama-3.3-70b` · Deployed on Railway 🚄
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+[![Lexora Org](https://img.shields.io/badge/org-buildlexora-181717?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/buildlexora)
+[![Live on Railway](https://img.shields.io/badge/live-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
 
-**Cloud & Deployment**
+---
 
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🛠️ Tech Arsenal
 
-**Tools**
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
+### 🌐 Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & Deploy
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manubm77&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/manubm77)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manubm77&theme=tokyonight&hide_border=true)](https://github.com/manubm77)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manubm77&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/manubm77)
+<img src="https://github-readme-stats.vercel.app/api?username=manubm77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubm77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=ffffff" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manubm77&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00D9FF&ring=A855F7&fire=EC4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=A855F7&dates=888888" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manubm77&theme=tokyo-night&bg_color=0D0D0D&color=00D9FF&line=A855F7&point=EC4899&hide_border=true)](https://github.com/manubm77)
+
+</div>
 
 ---
 
-## 📬 Connect
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manu-bm)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/manubm77)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/buildlexora)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/manubm77)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:buildlexora@gmail.com)
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=manubm77&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/manubm77)
+
+</div>
 
 ---
 
-*Build Smarter. Ship Structured! ⚡*
+## 🔭 Featured Projects
+
+<div align="center">
+
+[![Lexora AI](https://github-readme-stats.vercel.app/api/pin/?username=buildlexora&repo=lexora-ai&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/buildlexora/lexora-ai)
+[![GitAchievements](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=GitAchievements&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/manubm77/GitAchievements)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manu%20B.M.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manu-bm)
+[![GitHub Personal](https://img.shields.io/badge/GitHub-manubm77-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manubm77)
+[![GitHub Org](https://img.shields.io/badge/GitHub-buildlexora-181717?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/buildlexora)
+[![X](https://img.shields.io/badge/X-@manubm77-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manubm77)
+[![X Lexora](https://img.shields.io/badge/X-@buildlexora-000000?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/buildlexora)
+[![Instagram](https://img.shields.io/badge/Instagram-@buildlexora-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/buildlexora)
+[![Email](https://img.shields.io/badge/Email-manubm7012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manubm7012@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- ═══════════════════ SNAKE CONTRIBUTION GRAPH ═══════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manubm77/manubm77/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manubm77/manubm77/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manubm77/manubm77/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=120&section=footer&text=Build%20Smarter.%20Ship%20Structured.%20%E2%9A%A1&fontSize=18&fontColor=A855F7&fontAlignY=65)](https://github.com/manubm77)

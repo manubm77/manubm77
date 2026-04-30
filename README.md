@@ -52,12 +52,12 @@ mindset:    "Ship structured. Think first. Build with intent."
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
 │  💡 Intent      →  🏗️ Architect  →  📋 Decompose       │
-│       ↓                  ↓               ↓             │
+│       ↓                  ↓               ↓              │
 │  ⚙️ Execute    ←  🧠 State Mem  ←  🔍 Task Plan        │
 │       ↓                                                 │
 │  🛡️ Quality Guard  →  🔄 Iterate  →  ✅ Ship           │
 │                                                         │
-│         [ INTENT → ARCHITECTURE → CODE ]               │
+│         [ INTENT → ARCHITECTURE → CODE ]                │
 └─────────────────────────────────────────────────────────┘
 ```
 

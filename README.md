@@ -4,9 +4,9 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=200&section=header&text=Manu%20B.M.&fontSize=60&fontColor=00D9FF&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20Developer%20%E2%80%A2%20Founder%20%40%20Lexora&descAlignY=60&descSize=18&descColor=A855F7&animation=twinkling)](https://github.com/manubm77)
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Intent+%E2%86%92+Architecture+%E2%86%92+Execution+%E2%86%92+Code+%E2%9A%A1;Building+AI+that+thinks+before+it+builds.;BCA+Honours+%7C+AI+%26+Data+Science+%7C+MGU+Kerala;Remote-ready+%E2%80%A2+Future-focused+%E2%80%A2+Ship-first+mindset)](https://github.com/manubm77)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Intent+%E2%86%92+Architecture+%E2%86%92+Execution+%E2%86%92+Code+%E2%9A%A1;Building+AI+that+thinks+before+it+builds.;BCA+Honours+%7C+AI+%26+Data+Science+%7C+MGU+Kerala;Ruby+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Next.js+%C2%B7+Flask;Remote-ready+%E2%80%A2+Future-focused+%E2%80%A2+Ship-first+mindset)](https://github.com/manubm77)
 
-<!-- ═══════════════════ PROFILE VIEWS + SOCIAL PROOF ═══════════════════ -->
+<!-- ═══════════════════ BADGES ═══════════════════ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=manubm77&style=for-the-badge&color=0e1628&label=PROFILE+VIEWS)](https://github.com/manubm77)
 [![GitHub followers](https://img.shields.io/github/followers/manubm77?style=for-the-badge&color=0e1628&labelColor=0e1628&logo=github&logoColor=00D9FF)](https://github.com/manubm77?tab=followers)
 [![X Follow](https://img.shields.io/twitter/follow/manubm77?style=for-the-badge&color=0e1628&labelColor=0e1628&logo=x&logoColor=00D9FF&label=FOLLOW)](https://x.com/manubm77)
@@ -33,14 +33,17 @@ name:       Manu B.M.
 location:   Kerala, India 🇮🇳  (Remote-ready globally 🌍)
 role:       Full Stack & AI/ML Developer | Founder @ Lexora
 education:  BCA Honours — AI & Data Science | Mahatma Gandhi University
-currently:  Building Lexora · Crafting a 3D space-theme portfolio
+currently:  Building Lexora · GitAchievements · 3D Space Portfolio
+stack:      Ruby · TypeScript · Python · Next.js · Flask · Rails
 goal:       Remote IT → Entrepreneur → Switzerland 🇨🇭
 mindset:    "Ship structured. Think first. Build with intent."
 ```
 
 ---
 
-## 🚀 What I'm Building — [Lexora](https://github.com/buildlexora)
+## 🚀 What I'm Building
+
+### ⚙️ [Lexora](https://github.com/buildlexora) — AI Vibe-Coding Agent
 
 > **The AI that architects your idea before writing a single line of code.**
 
@@ -52,37 +55,51 @@ mindset:    "Ship structured. Think first. Build with intent."
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
 │  💡 Intent      →  🏗️ Architect  →  📋 Decompose       │
-│       ↓                  ↓               ↓              │
+│       ↓                  ↓               ↓             │
 │  ⚙️ Execute    ←  🧠 State Mem  ←  🔍 Task Plan        │
 │       ↓                                                 │
 │  🛡️ Quality Guard  →  🔄 Iterate  →  ✅ Ship           │
 │                                                         │
-│         [ INTENT → ARCHITECTURE → CODE ]                │
+│         [ INTENT → ARCHITECTURE → CODE ]               │
 └─────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 Most AI tools dump code instantly. **Lexora thinks first.**
-Built with Flask · Groq `llama-3.3-70b` · Deployed on Railway 🚄
+Built with Flask · Groq `llama-3.3-70b` · Live on Railway 🚄
 
 [![Lexora Org](https://img.shields.io/badge/org-buildlexora-181717?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/buildlexora)
-[![Live on Railway](https://img.shields.io/badge/live-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+
+---
+
+### 🏆 [GitAchievements](https://github.com/manubm77/GitAchievements) — GitHub RPG Platform
+
+> **Turn your GitHub activity into an epic RPG journey. XP. Achievements. Global Leaderboard.**
+
+Built with Next.js 15 · TypeScript · PostgreSQL · Redis · BullMQ · Prisma · Railway
+
+[![Live Demo](https://img.shields.io/badge/live-gitachievements-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://gitachievements-production.up.railway.app)
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 ### 🔤 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🤖 AI / ML
-![Python](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -90,20 +107,33 @@ Built with Flask · Groq `llama-3.3-70b` · Deployed on Railway 🚄
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 ### 🌐 Full Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
-### ☁️ Cloud & Deploy
+### 🗄️ Databases & Queues
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kamal](https://img.shields.io/badge/Kamal_Deploy-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -116,7 +146,7 @@ Built with Flask · Groq `llama-3.3-70b` · Deployed on Railway 🚄
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=manubm77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubm77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubm77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=ffffff&langs_count=8" height="165"/>
 
 </div>
 
@@ -151,6 +181,9 @@ Built with Flask · Groq `llama-3.3-70b` · Deployed on Railway 🚄
 [![Lexora AI](https://github-readme-stats.vercel.app/api/pin/?username=buildlexora&repo=lexora-ai&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/buildlexora/lexora-ai)
 [![GitAchievements](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=GitAchievements&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/manubm77/GitAchievements)
 
+[![gumroad-copilot](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=gumroad-copilot&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/manubm77/gumroad-copilot)
+[![emotion-detection](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=emotion-detection-opencv&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/manubm77/emotion-detection-opencv)
+
 </div>
 
 ---
@@ -165,15 +198,13 @@ Built with Flask · Groq `llama-3.3-70b` · Deployed on Railway 🚄
 [![X](https://img.shields.io/badge/X-@manubm77-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manubm77)
 [![X Lexora](https://img.shields.io/badge/X-@buildlexora-000000?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/buildlexora)
 [![Instagram](https://img.shields.io/badge/Instagram-@buildlexora-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/buildlexora)
-[![Email](https://img.shields.io/badge/Email-manubm7012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manubm7012@gmail.com)
+[![Email](https://img.shields.io/badge/Email-buildlexora@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buildlexora@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- ═══════════════════ SNAKE CONTRIBUTION GRAPH ═══════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manubm77/manubm77/output/github-snake-dark.svg" />
@@ -183,5 +214,5 @@ Built with Flask · Groq `llama-3.3-70b` · Deployed on Railway 🚄
 
 </div>
 
-<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=120&section=footer&text=Build%20Smarter.%20Ship%20Structured.%20%E2%9A%A1&fontSize=18&fontColor=A855F7&fontAlignY=65)](https://github.com/manubm77)

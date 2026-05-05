@@ -145,20 +145,30 @@ Built with Next.js 15 · TypeScript · PostgreSQL · Redis · BullMQ · Prisma �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manubm77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubm77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=ffffff&langs_count=8" height="165"/>
+<!-- FIX: Using vercel stats with cache_seconds to avoid rate limit broken images -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manubm77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&rank_icon=github&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubm77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=ffffff&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manubm77&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00D9FF&ring=A855F7&fire=EC4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=A855F7&dates=888888" />
+<!-- FIX: Streak stats via streak-stats.demolab.com — more stable than herokuapp -->
+<img src="https://streak-stats.demolab.com/?user=manubm77&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00D9FF&ring=A855F7&fire=EC4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=A855F7&dates=888888" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manubm77&theme=tokyo-night&bg_color=0D0D0D&color=00D9FF&line=A855F7&point=EC4899&hide_border=true)](https://github.com/manubm77)
+<!-- FIX: Profile summary cards — way more stable than activity-graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manubm77&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manubm77&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manubm77&theme=tokyonight" height="150"/>
 
 </div>
 
@@ -178,11 +188,12 @@ Built with Next.js 15 · TypeScript · PostgreSQL · Redis · BullMQ · Prisma �
 
 <div align="center">
 
-[![Lexora AI](https://github-readme-stats.vercel.app/api/pin/?username=buildlexora&repo=lexora-ai&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/buildlexora/lexora-ai)
-[![GitAchievements](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=GitAchievements&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/manubm77/GitAchievements)
+<!-- FIX: Only using repos confirmed to exist under manubm77 -->
+[![GitAchievements](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=GitAchievements&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&cache_seconds=1800)](https://github.com/manubm77/GitAchievements)
+[![gumroad-copilot](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=gumroad-copilot&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&cache_seconds=1800)](https://github.com/manubm77/gumroad-copilot)
 
-[![gumroad-copilot](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=gumroad-copilot&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/manubm77/gumroad-copilot)
-[![emotion-detection](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=emotion-detection-opencv&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff)](https://github.com/manubm77/emotion-detection-opencv)
+[![emotion-detection-opencv](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=emotion-detection-opencv&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&cache_seconds=1800)](https://github.com/manubm77/emotion-detection-opencv)
+[![resume-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=manubm77&repo=resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&cache_seconds=1800)](https://github.com/manubm77/resume-analyzer)
 
 </div>
 
@@ -203,16 +214,6 @@ Built with Next.js 15 · TypeScript · PostgreSQL · Redis · BullMQ · Prisma �
 </div>
 
 ---
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manubm77/manubm77/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manubm77/manubm77/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/manubm77/manubm77/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=120&section=footer&text=Build%20Smarter.%20Ship%20Structured.%20%E2%9A%A1&fontSize=18&fontColor=A855F7&fontAlignY=65)](https://github.com/manubm77)

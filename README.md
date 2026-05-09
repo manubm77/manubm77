@@ -1,43 +1,50 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=200&section=header&text=Manu%20B.M.&fontSize=60&fontColor=00D9FF&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Founder%20%40%20Lexora&descAlignY=60&descSize=18&descColor=A855F7&animation=twinkling" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Intent+to+Architecture+to+Execution+to+Code;Building+AI+that+thinks+before+it+builds;BCA+Honours+%7C+AI+%26+Data+Science+%7C+MGU+Kerala;Ruby+TypeScript+Python+Next.js+Flask;Remote-ready+Future-focused+Ship-first" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Intent+to+Architecture+to+Execution+to+Code;Building+AI+that+thinks+before+it+builds;BCA+Honours+%7C+AI+%26+Data+Science+%7C+MGU+Kerala;Python+%7C+TypeScript+%7C+Ruby+%7C+JavaScript;Remote-ready+%7C+Future-focused+%7C+Ship-first" alt="Typing SVG"/>
+
 <br/><br/>
- 
+
 <img src="https://komarev.com/ghpvc/?username=manubm77&style=for-the-badge&color=0e1628&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/manubm77?style=for-the-badge&color=0e1628&labelColor=0e1628&logo=github&logoColor=00D9FF" alt="Followers"/>
 <a href="https://x.com/manubm77"><img src="https://img.shields.io/twitter/follow/manubm77?style=for-the-badge&color=0e1628&labelColor=0e1628&logo=x&logoColor=00D9FF&label=FOLLOW" alt="X Follow"/></a>
+
 </div>
----
- 
+
+<hr/>
+
 <div align="center">
 <img src="https://img.shields.io/badge/NOT%20JUST%20ANOTHER%20DEV%20%E2%80%94%20A%20BUILDER-0E1628?style=for-the-badge" alt="A Builder"/>
 <br/>
 <img src="https://img.shields.io/badge/I%20architect%20intelligence%2C%20not%20just%20code-0E1628?style=for-the-badge" alt="I architect intelligence"/>
 </div>
----
- 
+
+<hr/>
+
 ## ⚡ About Me
- 
+
 ```yaml
 name:       Manu B.M.
 location:   Kerala, India 🇮🇳  (Remote-ready globally 🌍)
 role:       Full Stack & AI/ML Developer | Founder @ Lexora
 education:  BCA Honours — AI & Data Science | Mahatma Gandhi University
 currently:  Building Lexora · GitAchievements · 3D Space Portfolio
-stack:      Ruby · TypeScript · Python · Next.js · Flask · Rails
+stack:      Python · TypeScript · Ruby · JavaScript · Flask · Next.js
 goal:       Remote IT → Entrepreneur → Switzerland 🇨🇭
 mindset:    "Ship structured. Think first. Build with intent."
 ```
- 
----
- 
+
+<hr/>
+
 ## 🚀 What I'm Building
- 
+
 ### ⚙️ [Lexora](https://github.com/buildlexora) — AI Vibe-Coding Agent
- 
+
 > 🧠 **The AI that architects your idea before writing a single line of code.**
- 
+
 <div align="center">
+
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center" colspan="7">
@@ -77,106 +84,95 @@ mindset:    "Ship structured. Think first. Build with intent."
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="7">
-      <br/>
+    <td align="center" colspan="7"><br/>
       <img src="https://img.shields.io/badge/INTENT%20%E2%86%92%20ARCHITECTURE%20%E2%86%92%20EXECUTION%20%E2%86%92%20CODE-0E1628?style=for-the-badge" alt="Philosophy"/>
     </td>
   </tr>
 </table>
+
 </div>
+
 <br/>
+
 Most AI tools dump code instantly. **Lexora thinks first.**
 Built with **Flask** · **Groq** `llama-3.3-70b` · Live on **Railway** 🚄
- 
+
 <div align="center">
 <a href="https://github.com/buildlexora"><img src="https://img.shields.io/badge/Explore%20Lexora-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Lexora Org"/></a>
 </div>
----
- 
-## 🛠️ Tech Arsenal
-###🔤 Languages
- 
+
+<hr/>
+
+## 🛠️ Tech Stack
+
 <div align="center">
+
+<h3>🔤 Languages</h3>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
-</div>
-### 🤖 AI / ML
- 
-<div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
-</div>
-### 🌐 Full Stack
- 
-<div align="center">
+
+<h3>🌐 Frameworks & Libraries</h3>
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-<img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
-</div>
-### 🗄️ Databases & Queues
- 
-<div align="center">
+
+<h3>🤖 AI / ML</h3>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+
+<h3>🗄️ Databases & Cloud</h3>
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</div>
-### ☁️ Cloud & DevOps
- 
-<div align="center">
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kamal-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Kamal"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+
 </div>
-### 🔧 Tools
- 
-<div align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</div>
----
- 
+
+<hr/>
+
 ## 📊 GitHub Stats
- 
+
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manubm77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&icon_color=A855F7&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" alt="Manu Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubm77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manubm77&theme=tokyonight" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manubm77&theme=tokyonight" height="160" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manubm77&theme=tokyonight" height="160" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manubm77&theme=tokyonight" height="160" alt="Most Commit Language"/>
+
 <br/><br/>
- 
+
 <img src="https://streak-stats.demolab.com/?user=manubm77&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00D9FF&ring=A855F7&fire=EC4899&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=A855F7&dates=888888" alt="Streak Stats"/>
+
 </div>
----
- 
+
+<hr/>
+
 ## 🏆 GitHub Trophies
- 
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=manubm77&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
 </div>
----
- 
+
+<hr/>
+
 ## 🔭 Featured Projects
- 
+
 <div align="center">
 <table>
   <tr>
@@ -238,11 +234,13 @@ Built with **Flask** · **Groq** `llama-3.3-70b` · Live on **Railway** 🚄
   </tr>
 </table>
 </div>
----
- 
+
+<hr/>
+
 ## 📬 Let's Connect
- 
+
 <div align="center">
+
 <a href="https://linkedin.com/in/manu-bm"><img src="https://img.shields.io/badge/LinkedIn-Manu%20B.M.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/manubm77"><img src="https://img.shields.io/badge/GitHub-manubm77-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://github.com/buildlexora"><img src="https://img.shields.io/badge/GitHub-buildlexora-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Org"/></a>
@@ -251,11 +249,11 @@ Built with **Flask** · **Groq** `llama-3.3-70b` · Live on **Railway** 🚄
 <a href="https://x.com/buildlexora"><img src="https://img.shields.io/badge/X-@buildlexora-000000?style=for-the-badge&logo=x&logoColor=00D9FF" alt="X Lexora"/></a>
 <a href="https://instagram.com/buildlexora"><img src="https://img.shields.io/badge/Instagram-@buildlexora-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:buildlexora@gmail.com"><img src="https://img.shields.io/badge/Email-buildlexora@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
- 
+
 </div>
----
- 
+
+<hr/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=120&section=footer&text=Build%20Smarter.%20Ship%20Structured.&fontSize=18&fontColor=A855F7&fontAlignY=65" width="100%"/>
 </div>
- 

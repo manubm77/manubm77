@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=200&section=header&text=Manu%20B.M.&fontSize=60&fontColor=00D9FF&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Founder%20%40%20Lexora&descAlignY=60&descSize=18&descColor=A855F7&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0E1628,100:0D0D0D&height=200&section=header&text=Manu%20B.M.&fontSize=60&fontColor=00D9FF&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Builder&descAlignY=60&descSize=18&descColor=A855F7&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Intent+to+Architecture+to+Execution+to+Code;Building+AI+that+thinks+before+it+builds;BCA+Honours+%7C+AI+%26+Data+Science+%7C+MGU+Kerala;Python+%7C+TypeScript+%7C+Ruby+%7C+JavaScript;Remote-ready+%7C+Future-focused+%7C+Ship-first" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=BCA+Honours+%7C+AI+%26+Data+Science+%7C+MGU+Kerala;Python+%7C+TypeScript+%7C+Ruby+%7C+JavaScript;Remote-ready+%7C+Future-focused+%7C+Ship-first" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -27,79 +27,13 @@
 ```yaml
 name:       Manu B.M.
 location:   Kerala, India 🇮🇳  (Remote-ready globally 🌍)
-role:       Full Stack & AI/ML Developer | Founder @ Lexora
+role:       Full Stack & AI/ML Developer
 education:  BCA Honours — AI & Data Science | Mahatma Gandhi University
-currently:  Building Lexora · GitAchievements · 3D Space Portfolio
+currently:  GitAchievements · 3D Space Portfolio · Gumroad Copilot
 stack:      Python · TypeScript · Ruby · JavaScript · Flask · Next.js
 goal:       Remote IT → Entrepreneur → Switzerland 🇨🇭
 mindset:    "Ship structured. Think first. Build with intent."
 ```
-
-<hr/>
-
-## 🚀 What I'm Building
-
-### ⚙️ [Lexora](https://github.com/buildlexora) — AI Vibe-Coding Agent
-
-> 🧠 **The AI that architects your idea before writing a single line of code.**
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center" colspan="7">
-      <img src="https://img.shields.io/badge/LEXORA%20%C2%B7%207--ENGINE%20PIPELINE-0E1628?style=for-the-badge" alt="Lexora Pipeline"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%92%A1%20Intent-00D9FF?style=for-the-badge" alt="Intent"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%92-555555?style=flat-square" alt="→"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%8F%97%EF%B8%8F%20Architect-A855F7?style=for-the-badge" alt="Architect"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%92-555555?style=flat-square" alt="→"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%93%8B%20Decompose-EC4899?style=for-the-badge" alt="Decompose"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%92-555555?style=flat-square" alt="→"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%8D%20Task%20Plan-0EA5E9?style=for-the-badge" alt="Task Plan"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%93-555555?style=flat-square" alt="↓"/></td>
-    <td></td><td></td><td></td><td></td><td></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%93-555555?style=flat-square" alt="↓"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Quality%20Guard-22C55E?style=for-the-badge" alt="Quality Guard"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%90-555555?style=flat-square" alt="←"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%94%84%20Iterate-F59E0B?style=for-the-badge" alt="Iterate"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%90-555555?style=flat-square" alt="←"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Execute-EF4444?style=for-the-badge" alt="Execute"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%90-555555?style=flat-square" alt="←"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/%F0%9F%A7%A0%20State%20Mem-8B5CF6?style=for-the-badge" alt="State Mem"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/%E2%86%93-555555?style=flat-square" alt="↓"/></td>
-    <td></td><td></td><td></td><td></td><td></td><td></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="7">
-      <img src="https://img.shields.io/badge/%E2%9C%85%20SHIP-00D9FF?style=for-the-badge" alt="Ship"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="7"><br/>
-      <img src="https://img.shields.io/badge/INTENT%20%E2%86%92%20ARCHITECTURE%20%E2%86%92%20EXECUTION%20%E2%86%92%20CODE-0E1628?style=for-the-badge" alt="Philosophy"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-Most AI tools dump code instantly. **Lexora thinks first.**
-Built with **Flask** · **Groq** `llama-3.3-70b` · Live on **Railway** 🚄
-
-<div align="center">
-<a href="https://github.com/buildlexora"><img src="https://img.shields.io/badge/Explore%20Lexora-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Lexora Org"/></a>
-</div>
 
 <hr/>
 
@@ -206,19 +140,6 @@ Built with **Flask** · **Groq** `llama-3.3-70b` · Live on **Railway** 🚄
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Lexora AI</h3>
-      <p align="center">
-        <a href="https://github.com/buildlexora"><img src="https://img.shields.io/badge/View%20Org-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Org"/></a>
-      </p>
-      <p align="center">7-engine AI vibe-coding agent. Intent to Architecture to Execution to Code.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq"/>
-        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">😶 Emotion Detection</h3>
       <p align="center">
         <a href="https://github.com/manubm77/emotion-detection-opencv"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
@@ -230,6 +151,9 @@ Built with **Flask** · **Groq** `llama-3.3-70b` · Live on **Railway** 🚄
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TF"/>
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Placeholder for a future project -->
     </td>
   </tr>
 </table>
@@ -243,12 +167,8 @@ Built with **Flask** · **Groq** `llama-3.3-70b` · Live on **Railway** 🚄
 
 <a href="https://linkedin.com/in/manu-bm"><img src="https://img.shields.io/badge/LinkedIn-Manu%20B.M.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/manubm77"><img src="https://img.shields.io/badge/GitHub-manubm77-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/buildlexora"><img src="https://img.shields.io/badge/GitHub-buildlexora-181717?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Org"/></a>
 <br/><br/>
 <a href="https://x.com/manubm77"><img src="https://img.shields.io/badge/X-@manubm77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://x.com/buildlexora"><img src="https://img.shields.io/badge/X-@buildlexora-000000?style=for-the-badge&logo=x&logoColor=00D9FF" alt="X Lexora"/></a>
-<a href="https://instagram.com/buildlexora"><img src="https://img.shields.io/badge/Instagram-@buildlexora-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:buildlexora@gmail.com"><img src="https://img.shields.io/badge/Email-buildlexora@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 

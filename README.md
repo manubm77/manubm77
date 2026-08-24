@@ -24,16 +24,14 @@
 
 ## ⚡ About Me
 
-```yaml
+\`\`\`
 name:       Manu B.M.
-location:   Kerala, India 🇮🇳  (Remote-ready globally 🌍)
+location:   Kerala, India 🇮🇳
 role:       Full Stack & AI/ML Developer
 education:  BCA Honours — AI & Data Science | Mahatma Gandhi University
-currently:  GitAchievements · 3D Space Portfolio · Gumroad Copilot
-stack:      Python · TypeScript · Ruby · JavaScript · Flask · Next.js
-goal:       Remote IT → Entrepreneur → Switzerland 🇨🇭
+stack:      Python · TypeScript · Ruby · Flask · Next.js · Rails
 mindset:    "Ship structured. Think first. Build with intent."
-```
+\`\`\`
 
 <hr/>
 
